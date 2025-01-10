@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Obsidian Graph
-        uses: bissbert/obsidian-graph-github-action@0.1.3
+        uses: bissbert/obsidian-graph-github-action@0.1.4
         with:
           python-version: "3.x"
